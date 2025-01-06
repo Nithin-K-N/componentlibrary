@@ -1,0 +1,31 @@
+{
+  "name": "kn-componentlibrary",
+  "version": "0.0.1",
+  "description": "react component library",
+  "type": "module",
+  "scripts": {
+    "rollup": "rollup -c"
+  },
+  "author": "nithinkn",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.2",
+    "@rollup/plugin-node-resolve": "^16.0.0",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "@types/react": "^19.0.2",
+    "react": "^19.0.0",
+    "rollup": "^4.29.2",
+    "rollup-plugin-dts": "^6.1.1",
+    "tslib": "^2.8.1",
+    "typescript": "^5.7.2",
+    "@rollup/plugin-terser": "^0.4.4",
+    "rollup-plugin-peer-deps-external": "^2.2.4"
+  },
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "dependencies": { }
+}

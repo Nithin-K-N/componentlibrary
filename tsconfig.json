@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig to read more about this file */
+                                /* Skip type checking all .d.ts files. */
+    "target":"ES5",
+    "lib":["dom","dom.iterable","esnext"],
+    "allowJs":true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module":"esnext",
+    "moduleResolution":"node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+     "jsx": "react-jsx",
+    // "declaration": true,
+    // "declarationDir": "./dist/types", // Types will be emitted here
+    // "emitDeclarationOnly": true,    // Emit only declaration files
+    // "outDir": "./dist",             // Output JS files to `dist`
+  },
+  "include": ["src"], 
+  
+}
