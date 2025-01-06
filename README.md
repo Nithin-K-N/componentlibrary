@@ -33,3 +33,13 @@ This repository documents my learning process in developing a custom React compo
 1. Commit the initial project setup, including `package.json`, `tsconfig.json`, `rollup.config.js`, and basic component structure.
 2. Add a note to the commit message describing the initial setup and the purpose of the library.
 3. Push the commit to your Git repository.
+![Screenshot 2025-01-06 154431](https://github.com/user-attachments/assets/c5cae9cd-9a2e-4324-8f50-7c34b560d540)
+
+#v0.02
+InputField
+TextArea
+DropDown
+CheckBox
+![Screenshot 2025-01-06 154531](https://github.com/user-attachments/assets/b4d1562c-b8c9-4d1c-9428-475df88ba7bc)
+
+
